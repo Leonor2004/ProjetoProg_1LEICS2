@@ -1,5 +1,5 @@
 # ProjetoProg_1LEICS2
-Pixel-Crafter
+Prog Project - Pixel-Crafter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,5 +13,5 @@ Pixel-Crafter
 - **Group members:**
   - Ana Filipa Geraldes (up202208030@up.pt),
   - Filipa Fidalgo (up202208039@up.pt),
-  - Leonor Couto (up202205796@up.pt)
+  - Leonor Couto (up202205796@up.pt).
       
